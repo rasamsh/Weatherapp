@@ -1,21 +1,19 @@
-.input-group{
-  margin: 20px 0px;
+.input-group {
+	margin: 20px 0px;
 }
 
-td, th{
-  vertical-align: middle !important;
-  text-align: center !important;
-
+td,
+th {
+	vertical-align: middle !important;
+	text-align: center !important;
 }
 
-td:first-of-type{
-  height:200px;
-  width:22%;
+td:first-of-type {
+	height: 200px;
+	width: 22%;
 }
 
-.google-maps{
-
-    height:120px !important;
-    width:180px !important;
-
+.google-maps {
+	height: 120px !important;
+	width: 180px !important;
 }
